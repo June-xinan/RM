@@ -4,6 +4,7 @@ int main()
 	int number;
 	do
 	{
+		printf("请输入一个数字");
 		scanf("%d",&number);
 		if(number==-1)
 		{
